@@ -26,6 +26,6 @@ resource "aws_instance" "project-2110" {
   instance_type = "t2.micro"  # Change to the desired instance type
 
   tags = {
-    Name = "project-2110"
+    Name = "project-211024"
   }
 }
