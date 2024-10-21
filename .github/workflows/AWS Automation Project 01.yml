@@ -42,7 +42,7 @@ jobs:
 
 
 
-      # AWS credentials setup1
+      # AWS credentials setup2
 
       - name: Configure AWS credentials
 
