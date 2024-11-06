@@ -50,7 +50,7 @@ jobs:
 
       - name: Pull Docker Image
 
-        run: docker pull CHANGE
+        run: docker pull ashrafzul/wordpress:1.0
 
 
 
@@ -90,7 +90,7 @@ jobs:
 
         scanners: 'vuln'
 
-        image-ref: CHANGE
+        image-ref: ashrafzul/wordpress:1.0
 
         scan-ref: '.'
 
